@@ -184,6 +184,7 @@ justify-content: center;}
 .detailpage .de-tit p span{ display: inline-block; padding: 0 25px; font-size: 14px; color: #666;}
 .detailpage .de-tutext img{  max-width: 100%; overflow: hidden; margin: 10px auto; display: block;}
 .detailpage .de-tutext p{ font-size: 16px; line-height: 40px; padding-top: 15px;}
+.detailpage .de-tutext a:hover{color: #0026ff;}
 .detailpage .de-extutext p{ font-size: 18px; line-height: 40px; padding-top: 15px;}
 .fenpian{ display: flex; display: -ms-flexbox; display: -moz-flex; display: -ms-flexbox; display: -moz-flex; 
 justify-content: space-between; border-top: 1px solid #E0E0E0; padding-top: 30px; margin-top: 35px;}
